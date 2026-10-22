@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ernat-soltanbekov/tetris-fit/internal/solver"
+	"github.com/GhostOfAstana/tetris-fit/internal/solver"
 )
 
 type brokenWriter struct{}

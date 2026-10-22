@@ -22,7 +22,7 @@ jobs:
           go-version: ${{ matrix.go }}
           cache: false
       - name: Confirm standard-library-only dependencies
-        run: test "$(go list -m all)" = github.com/ernat-soltanbekov/tetris-fit
+        run: test "$(go list -m all)" = github.com/GhostOfAstana/tetris-fit
       - name: Format, vet, race tests and executable audit
         run: make check
       - name: Fuzz malformed input and small exact solutions

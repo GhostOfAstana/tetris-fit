@@ -6,7 +6,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/ernat-soltanbekov/tetris-fit/internal/solver"
+	"github.com/GhostOfAstana/tetris-fit/internal/solver"
 )
 
 // New creates an observer for one solve. No sleeping, colour escapes or network.

@@ -1,13 +1,13 @@
 # tetris-fit
 
-[![Audit](https://github.com/ernat-soltanbekov/tetris-fit/actions/workflows/ci.yml/badge.svg)](https://github.com/ernat-soltanbekov/tetris-fit/actions/workflows/ci.yml)
+[![Audit](https://github.com/GhostOfAstana/tetris-fit/actions/workflows/ci.yml/badge.svg)](https://github.com/GhostOfAstana/tetris-fit/actions/workflows/ci.yml)
 
 Точный решатель задачи упаковки тетромино на Go: находит наименьший квадрат,
 сохраняет обозначения фигур `A`…`Z`, измеряет качество решения и стоимость поиска.
 Бонусный визуализатор показывает каждое размещение и каждый откат.
 Приложение использует только стандартную библиотеку Go и работает без сети.
 
-Автор и владелец проекта: [Yernat «GhostOfAstana» Soltanbekov](https://github.com/ernat-soltanbekov).
+Автор и владелец проекта: [Ернат Солтанбеков (Yernat Soltanbekov)](https://github.com/GhostOfAstana).
 Военное прошлое, ежедневная утренняя практика боевых искусств с 2008 года,
 техническое образование и учёба в Tomorrow School задают подход к проекту:
 дисциплина, понятные решения и проверяемый результат. Профессиональная цель —
@@ -19,7 +19,7 @@
 для самого приложения Python и сторонние пакеты не нужны.
 
 ```sh
-git clone https://github.com/ernat-soltanbekov/tetris-fit.git
+git clone https://github.com/GhostOfAstana/tetris-fit.git
 cd tetris-fit
 make build
 ./bin/tetris-optimizer testdata/hardexam.txt

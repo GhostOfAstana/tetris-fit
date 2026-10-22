@@ -8,7 +8,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/ernat-soltanbekov/tetris-fit/internal/tetromino"
+	"github.com/GhostOfAstana/tetris-fit/internal/tetromino"
 )
 
 // Even 26 pieces with CRLF line endings fit below this bound.

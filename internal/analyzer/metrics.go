@@ -4,7 +4,7 @@ import (
 	"errors"
 	"math"
 
-	"github.com/ernat-soltanbekov/tetris-fit/internal/tetromino"
+	"github.com/GhostOfAstana/tetris-fit/internal/tetromino"
 )
 
 var ErrGrid = errors.New("expected a nonempty square grid of complete labelled tetrominoes")

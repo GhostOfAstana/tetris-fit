@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/ernat-soltanbekov/tetris-fit/internal/tetromino"
+	"github.com/GhostOfAstana/tetris-fit/internal/tetromino"
 )
 
 const square = "##..\n##..\n....\n...."

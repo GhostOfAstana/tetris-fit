@@ -13,10 +13,10 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/ernat-soltanbekov/tetris-fit/internal/analyzer"
-	"github.com/ernat-soltanbekov/tetris-fit/internal/parser"
-	"github.com/ernat-soltanbekov/tetris-fit/internal/solver"
-	"github.com/ernat-soltanbekov/tetris-fit/internal/visualizer"
+	"github.com/GhostOfAstana/tetris-fit/internal/analyzer"
+	"github.com/GhostOfAstana/tetris-fit/internal/parser"
+	"github.com/GhostOfAstana/tetris-fit/internal/solver"
+	"github.com/GhostOfAstana/tetris-fit/internal/visualizer"
 )
 
 const help = `Usage: tetris-optimizer FILE [--analyze] [--visualize] [--fixed]

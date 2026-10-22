@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/ernat-soltanbekov/tetris-fit/internal/cli"
+	"github.com/GhostOfAstana/tetris-fit/internal/cli"
 	"os"
 )
 

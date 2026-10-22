@@ -11,9 +11,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ernat-soltanbekov/tetris-fit/internal/parser"
-	"github.com/ernat-soltanbekov/tetris-fit/internal/solver"
-	"github.com/ernat-soltanbekov/tetris-fit/internal/tetromino"
+	"github.com/GhostOfAstana/tetris-fit/internal/parser"
+	"github.com/GhostOfAstana/tetris-fit/internal/solver"
+	"github.com/GhostOfAstana/tetris-fit/internal/tetromino"
 )
 
 func catalogue() []tetromino.Piece {

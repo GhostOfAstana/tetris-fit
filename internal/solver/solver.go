@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/ernat-soltanbekov/tetris-fit/internal/tetromino"
+	"github.com/GhostOfAstana/tetris-fit/internal/tetromino"
 )
 
 const (
